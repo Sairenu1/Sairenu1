@@ -70,11 +70,6 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 - Writing clean and maintainable full-stack code  
 - Learning advanced system design patterns
 
----
-
-
-
----
 
 <!--## 📌 Featured Projects
 
