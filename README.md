@@ -70,13 +70,12 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sairenu1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sairenu1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sairenu1&theme=tokyonight&hide_border=true" width="49%" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairenu1&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
@@ -101,12 +100,11 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 ## 🤝 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%2300eaff)](https://www.linkedin.com/in/sairenu-sureban/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://sairenu-dev.preview.emergentagent.com/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail)](sairenusureban04@gmail.com)
-
+<a href="https://www.linkedin.com/in/sairenu-sureban/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" style="margin: 0 10px;" /></a>
+<a href="https://sairenu-dev.preview.emergentagent.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30px" style="margin: 0 10px;" /></a>
+<a href="mailto:sairenusureban04@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px" style="margin: 0 10px;" /></a>
 </div>
+
 
 ---
 
