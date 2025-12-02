@@ -101,7 +101,7 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sairenu-sureban/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" style="margin: 0 10px;" /></a>
-<a href="https://sairenu-dev.preview.emergentagent.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30px" style="margin: 0 10px;" /></a>
+<a href="https://sairenu-dev.preview.emergentagent.com/"><img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="30px" width="30px" style="margin: 0 10px;" /></a>
 <a href="mailto:sairenusureban04@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px" style="margin: 0 10px;" /></a>
 </div>
 
