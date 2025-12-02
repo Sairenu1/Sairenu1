@@ -57,7 +57,6 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ff6b6b);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #3b82f6);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #00bcd4);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jakarta/jakarta-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ff9d00);" />
 <img src="https://cdn-icons-png.flaticon.com/512/189/189792.png" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #00eaff);" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ffb86b);" />
 
