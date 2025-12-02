@@ -45,15 +45,50 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=green)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #ff00ff);" />
+
+<!-- Spring Boot -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #00ff84);" />
+
+<!-- Go -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #00eaff);" />
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #ffe600);" />
+
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #00d8ff);" />
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #ffe552);" />
+
+<!-- C++ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #b19cff);" />
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #ffffff);" />
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+     width="55" 
+     style="padding:10px; filter: drop-shadow(0 0 10px #ff3066);" />
 
 </div>
 
@@ -62,8 +97,7 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 ## 🚀 What I'm Working On  
 - Building scalable backend systems using **Go** and **Spring Boot**  
 - Writing clean and maintainable full-stack code  
-- Exploring microservices, cloud deployment, and system design  
-- Working on high-impact personal and open-source projects  
+- Learning advanced system design patterns
 
 ---
 
@@ -81,7 +115,7 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 
 ---
 
-## 📌 Featured Projects
+<!--## 📌 Featured Projects
 
 > Replace the repo names below with your actual project names
 
@@ -97,22 +131,22 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 
 </p>
 
----
+-->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](#)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%2300eaff)](https://www.linkedin.com/in/sairenu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://sairenu-dev.preview.emergentagent.com/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail)](sairenusureban04@gmail.com)
 
 </div>
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   Made with ❤️, discipline, and endless curiosity.
-</p>
+</p> -->
 
 
