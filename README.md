@@ -45,52 +45,18 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 
 <div align="center">
 
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #ff00ff);" />
-
-<!-- Spring Boot -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #00ff84);" />
-
-<!-- Go -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #00eaff);" />
-
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #ffe600);" />
-
-<!-- React -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #00d8ff);" />
-
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #ffe552);" />
-
-<!-- C++ -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #b19cff);" />
-
-<!-- Linux -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #ffffff);" />
-
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-     width="55" 
-     style="padding:10px; filter: drop-shadow(0 0 10px #ff3066);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ff00ff);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #00ff84);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #00eaff);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ffe600);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #00d8ff);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ffe552);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #b19cff);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ffffff);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="padding:10px; filter: drop-shadow(0 0 10px #ff3066);" />
 
 </div>
+
 
 ---
 
@@ -137,7 +103,7 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%2300eaff)](https://www.linkedin.com/in/sairenu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%2300eaff)](www.linkedin.com/in/sairenu-sureban)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://sairenu-dev.preview.emergentagent.com/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail)](sairenusureban04@gmail.com)
 
