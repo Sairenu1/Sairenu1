@@ -72,15 +72,6 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sairenu1&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairenu1&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 ---
