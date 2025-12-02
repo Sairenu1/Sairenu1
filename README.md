@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src= "C:\Users\HP\Downloads\Sairenu_Image.jpg"  width="140" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">🏄‍♀️ Sairenu</h1>
+<h1 align="center">🏄‍♀️ Sairenu R Sureban</h1>
 <h3 align="center">Full-Stack Developer | Backend Engineering </h3>
 
 <p align="center">
