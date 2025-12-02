@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Avatar / Photo -->
 <p align="center">
-  <img src=""C:\Users\HP\Downloads\Sairenu_Image.jpg" " width="140" style="border-radius:50%;" />
+  <img src= "C:\Users\HP\Downloads\Sairenu_Image.jpg"  width="140" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">🏄‍♀️ Sairenu</h1>
@@ -66,7 +66,7 @@ I am a backend developer committed to building stable, scalable, and maintainabl
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 
 <div align="center">
 
