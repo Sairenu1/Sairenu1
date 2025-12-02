@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <!-- Avatar / Photo -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="140" style="border-radius:50%;" />
+  <img src=""C:\Users\HP\Downloads\Sairenu_Image.jpg" " width="140" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">🏄‍♀️ Sairenu</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineering | Digital Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Backend Engineering </h3>
 
 <p align="center">
-  <i>"Building reliable, scalable, and elegant software—one clean commit at a time."</i>
+  <i>"Dedicated to building high-quality applications through strong engineering principles and thoughtful design."</i>
 </p>
 
 <br>
@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 ---
 
 ## ⚡ About Me  
-I design and develop full-stack applications with strong backend architectures, clean APIs, and refined UI/UX.  
-Focused on Java, Go, microservices, and building digital experiences that perform beautifully on the inside and outside.
+I am a backend developer committed to building stable, scalable, and maintainable backend systems. I enjoy creating efficient solutions that power seamless user experiences.
 
 ---
 
@@ -103,7 +102,7 @@ Focused on Java, Go, microservices, and building digital experiences that perfor
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%2300eaff)](www.linkedin.com/in/sairenu-sureban)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%2300eaff)](https://www.linkedin.com/in/sairenu-sureban/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](https://sairenu-dev.preview.emergentagent.com/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail)](sairenusureban04@gmail.com)
 
